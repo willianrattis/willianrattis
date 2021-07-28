@@ -1,5 +1,7 @@
-### Hi there 👋
+# Repositório público do Willian Rattis
+***
 
+Materiais que me ajudaram durante uma jornada de aprendizado, mas que estou organizando aqui em um repositório público para o acesso de todos.
 <!--
 **willianrattis/willianrattis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
