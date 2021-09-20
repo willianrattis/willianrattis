@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagazineStore.Core", "MagazineStore.Core\MagazineStore.Core.csproj", "{BA498CA8-52EE-40C6-93BF-C8FA3504AC9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagazineStore.Teste", "MagazineStore.Teste\MagazineStore.Teste.csproj", "{67BAB1B0-87CC-4B57-B239-0C6E05212F9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagazineStore.Utils", "MagazineStore.Utils\MagazineStore.Utils.csproj", "{30722ECD-8984-426B-9716-105206E4C71C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA498CA8-52EE-40C6-93BF-C8FA3504AC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA498CA8-52EE-40C6-93BF-C8FA3504AC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA498CA8-52EE-40C6-93BF-C8FA3504AC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA498CA8-52EE-40C6-93BF-C8FA3504AC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67BAB1B0-87CC-4B57-B239-0C6E05212F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67BAB1B0-87CC-4B57-B239-0C6E05212F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67BAB1B0-87CC-4B57-B239-0C6E05212F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67BAB1B0-87CC-4B57-B239-0C6E05212F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30722ECD-8984-426B-9716-105206E4C71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30722ECD-8984-426B-9716-105206E4C71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30722ECD-8984-426B-9716-105206E4C71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30722ECD-8984-426B-9716-105206E4C71C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

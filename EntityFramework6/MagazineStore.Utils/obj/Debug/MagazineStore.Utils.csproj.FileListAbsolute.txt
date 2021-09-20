@@ -1,0 +1,4 @@
+D:\SkyDrive\Trabalho\Edukee\Treinamentos\Introdução ao EF 6\Projeto\IntroducaoEF6Solution\MagazineStore.Utils\bin\Debug\MagazineStore.Utils.dll
+D:\SkyDrive\Trabalho\Edukee\Treinamentos\Introdução ao EF 6\Projeto\IntroducaoEF6Solution\MagazineStore.Utils\bin\Debug\MagazineStore.Utils.pdb
+D:\SkyDrive\Trabalho\Edukee\Treinamentos\Introdução ao EF 6\Projeto\IntroducaoEF6Solution\MagazineStore.Utils\obj\Debug\MagazineStore.Utils.dll
+D:\SkyDrive\Trabalho\Edukee\Treinamentos\Introdução ao EF 6\Projeto\IntroducaoEF6Solution\MagazineStore.Utils\obj\Debug\MagazineStore.Utils.pdb
