@@ -1,23 +1,5 @@
 ## Olá Mundo, Eu sou Willian Rattis! 
 Profile Readme Stats
-
-{{ ACCOUNT_AGE }}
-{{ ISSUES }}
-{{ PULL_REQUESTS }}
-{{ CODE_REVIEWS }}
-{{ COMMITS }}
-{{ GISTS }}
-{{ REPOSITORIES }}
-{{ REPOSITORIES_CONTRIBUTED_TO }}
-{{ STARS }}
-Languages
-{{ LANGUAGE_TEMPLATE_START }}
-{{ LANGUAGE_NAME }}
-{{ LANGUAGE_PERCENT }}
-{{ LANGUAGE_COLOR }}
-{{ LANGUAGE_TEMPLATE_END }}
-
-
  <div>
   <a href="https://github.com/willianrattis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianrattis&count_private=true&include_all_commits=true&show_icons=true&theme=dark"/>
