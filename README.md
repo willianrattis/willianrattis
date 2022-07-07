@@ -1,6 +1,6 @@
 ## Olá Mundo, Eu sou Willian Rattis! 
 [![Willian GitHub Stats](https://github-readme-stats.vercel.app/api?username=willianrattis&count_private=true&include_all_commits=true)](https://github.com/willianrattis/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=willianrattis&repo=[github-readme-stats](https://github.com/viavarejo-internal))](https://github.com/willianrattis/github-readme-stats)
+[![Willian GitHub Stats wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrattis)](https://github.com/willianrattis/github-readme-stats)
  <div>
   <a href="https://github.com/willianrattis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianrattis&count_private=true&include_all_commits=true&show_icons=true&theme=dark"/>
