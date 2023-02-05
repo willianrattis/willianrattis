@@ -22,10 +22,10 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: willianrattis
+          user: viavarejo-internal
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
