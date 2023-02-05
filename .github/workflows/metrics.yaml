@@ -26,7 +26,7 @@ jobs:
 
           # Options
           read: org
-          user: willianrattis
+          user: viavarejo-internal
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
