@@ -25,8 +25,9 @@ Best practices for software development
 
  <div>
   <a href="https://github.com/willianrattis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianrattis&count_private=true&include_all_commits=true&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianrattis&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianrattis&count_private=true&include_all_commits=true&show_icons=true&theme=dark&token=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"/>
+   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianrattis&count_private=true&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
